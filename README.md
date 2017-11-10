@@ -1,2 +1,4 @@
-# Hangman-Game-
-Single player and Two player versions of the classic pen ad paper hangman game
+# Hangman
+
+Desription - ‘HANGMAN’ is a program based on the original game, Hang-Man. The program starts with a ‘Main Menu’ which has all the major options of the game listed. There are two versions of the game that can be played, ‘Single Player’ and ‘Double Player’. In the ‘Single Player’  version, there are four categories which are ‘Bollywood Movies’, ‘Hollywood Movies’, ‘English Words’ and ‘Songs’ .The player chooses one of the four categories and then the words under that category are asked along with a hint one by one (in a random sequence). In the ‘Double Player’ version, first both the players enter their names and then enter a word along with a hint one by one in an alternate sequence. At the end of the game, a chart showing the number of losses and wins of both the players is displayed. For both versions of the game, the players get six chances to enter wrong characters. If any player over shoots the limit, he or she loses. The user can add their own Bollywood movies, Hollywood movies, songs and English words to the list of the respected categories. There are ten default words in each category.  The user can also clear any category and start  entering from scratch. 
+
