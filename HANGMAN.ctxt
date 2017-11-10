@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ MainMenu()
+comment1.params=r\ file
+comment1.target=void\ Player1(int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ Player2()
+comment3.params=
+comment3.target=void\ write()
+comment4.params=
+comment4.target=void\ append()
+comment5.params=
+comment5.target=void\ read()
+comment6.params=s
+comment6.target=void\ CoolName2(java.lang.String)
+numComments=7
